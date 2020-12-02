@@ -1,2 +1,6 @@
 master
+<<<<<<< HEAD
 oldwang
+=======
+master
+>>>>>>> ead5006... hello master
